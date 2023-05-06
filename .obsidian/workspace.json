@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "448bda615966e54a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,6 +156,7 @@
   },
   "active": "455fe3430765947b",
   "lastOpenFiles": [
+    "日志/static/Pasted image 20230506175538.png",
     "Pasted image 20230506103815.png.md",
     "日志/2023-05-06.md",
     "Pasted image 20230506103815.png",
