@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6f7f31a31990d7d",
+        "id": "de5d4122698f31f2",
         "type": "tabs",
         "children": [
           {
-            "id": "455fe3430765947b",
+            "id": "7bdca37817d04506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/2023-05-12.md",
+                "file": "开会纪要/待开会.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/2023-05-12.md",
+                "file": "开会纪要/待开会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/2023-05-12.md",
+                "file": "开会纪要/待开会.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/2023-05-12.md"
+                "file": "开会纪要/待开会.md"
               }
             }
           }
@@ -154,10 +154,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "455fe3430765947b",
+  "active": "7bdca37817d04506",
   "lastOpenFiles": [
-    "Git规范.md",
+    "开会纪要/static/Pasted image 20230515174137.png",
+    "开会纪要/static/Pasted image 20230515174019.png",
+    "开会纪要/static",
     "日志/2023-05-12.md",
+    "开会纪要/待开会.md",
+    "开会纪要",
+    "Git规范.md",
     "日志/2023-05-10.md",
     "未命名.canvas",
     "日志/2023-05-09.md",
@@ -176,7 +181,6 @@
     "Pasted image 20230506103815.png",
     "日志/static/Pasted image 20230506103841.png",
     "日志/static",
-    "Pasted image 20230506103741.png",
     "日志"
   ]
 }
