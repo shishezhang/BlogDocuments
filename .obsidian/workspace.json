@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bdca37817d04506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日志/2023-05-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "63eecb8514ebdd06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99路/其他记录.md",
+                "file": "日志/遗留问题.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/2023-05-24.md",
+                "file": "日志/遗留问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/2023-05-24.md",
+                "file": "日志/遗留问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/2023-05-24.md"
+                "file": "日志/遗留问题.md"
               }
             }
           }
@@ -166,12 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "351b036154a53d40",
+  "active": "63eecb8514ebdd06",
   "lastOpenFiles": [
+    "99路/任务.md",
     "日志/遗留问题.md",
     "日志/2023-05-24.md",
     "99路/其他记录.md",
-    "99路/任务.md",
     "日志/2023-05-22.md",
     "Git规范.md",
     "2023-05-22.md",
