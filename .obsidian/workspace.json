@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/遗留问题.md",
-                "mode": "preview",
+                "file": "99路/待更新内容.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/遗留问题.md",
+                "file": "99路/待更新内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/遗留问题.md",
+                "file": "99路/待更新内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/遗留问题.md"
+                "file": "99路/待更新内容.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "63eecb8514ebdd06",
   "lastOpenFiles": [
-    "99路/任务.md",
     "日志/遗留问题.md",
+    "99路/待更新内容.md",
+    "99路/任务.md",
     "日志/2023-05-24.md",
     "99路/其他记录.md",
     "日志/2023-05-22.md",
