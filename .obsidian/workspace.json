@@ -23,8 +23,12 @@
             "id": "8ba67e9423784495",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日志/2023-05-30.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日志/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日志/2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日志/2023-05-30.md"
+              }
             }
           }
         ]
@@ -173,6 +181,8 @@
   },
   "active": "8ba67e9423784495",
   "lastOpenFiles": [
+    "99路/其他记录.md",
+    "日志/遗留问题.md",
     "日志/2023-05-29.md",
     "Git规范/Git规范.md",
     "README.md",
@@ -180,12 +190,10 @@
     "开会纪要/实习生招聘.md",
     "开会纪要/新同事开会 5-19.md",
     "99路/任务安排.md",
-    "99路/其他记录.md",
     "99路/导出.md",
     "99路/待更新内容.md",
     "99路/待测试.md",
     "日志/2023-05-30.md",
-    "日志/遗留问题.md",
     "日志/static/Pasted image 20230530090509.png",
     "日志/static/Pasted image 20230529175439.png",
     "日志/static/Pasted image 20230529175432.png",
