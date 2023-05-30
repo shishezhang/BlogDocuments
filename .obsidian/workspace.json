@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99路/其他记录.md",
+                "file": "日志/遗留问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99路/其他记录.md",
+                "file": "日志/遗留问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99路/其他记录.md"
+                "file": "日志/遗留问题.md"
               }
             }
           }
@@ -180,12 +179,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b1ba95cbe0b4597e",
+  "active": "63eecb8514ebdd06",
   "lastOpenFiles": [
     "日志/2023-05-30.md",
-    "99路/任务安排.md",
     "99路/其他记录.md",
     "日志/遗留问题.md",
+    "99路/任务安排.md",
     "99路/导出.md",
     "99路/待更新内容.md",
     "99路/待测试.md",
